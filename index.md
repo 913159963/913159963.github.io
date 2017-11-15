@@ -1,3 +1,11 @@
+### 360
+
+This is my 360 image
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/noyr" ></script>
+
+***
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/913159963/913159963.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
